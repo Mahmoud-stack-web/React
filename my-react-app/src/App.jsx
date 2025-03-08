@@ -5,6 +5,7 @@ function App() {
     <>
       <Header></Header>
       <Header></Header>
+      <Header></Header>
       <main className="container">
         <Entry
           img={{
